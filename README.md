@@ -5,6 +5,7 @@ The puzzles were generated using Blagovest Dachev's Sudoku generator and solver,
 
 # Project Details
 The goal of this project to collect few samples of easy and hard puzzles from the dataset and use multiple CSP algorithms to find the solution. The algorithms used are backtracking, forward jumping, Arc consistency-AC1 and AC3. The project presents comparative analysis of all the algorithms by comparing their time, number of iterations and space complexity of each algorithm taken to find the solution. 
+Please read the final report for more details.
 
 
 # References
