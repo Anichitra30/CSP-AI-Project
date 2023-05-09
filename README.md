@@ -7,7 +7,7 @@ The puzzles were generated using Blagovest Dachev's Sudoku generator and solver,
 The goal of this project to collect few samples of easy and hard puzzles from the dataset and use multiple CSP algorithms to find the solution. The algorithms used are backtracking, forward jumping, Arc consistency-AC1 and AC3. The project presents comparative analysis of all the algorithms by comparing their time, number of iterations and space complexity of each algorithm taken to find the solution. 
 Please read the final report for more details.
 
-Note: The AC3 algorithm uses previously created functions for ease. Those functions can be accessed from the repo as 'UsedFunctions.py'. While working on the notebook, the file was mounted and used. 
+Note: The AC3 algorithm uses previously created functions for ease. Those functions can be accessed from the repo as 'UsedFunctions.zip'. While working on the notebook, the file was mounted and used. 
 
 # References
 1. https://www.kaggle.com/datasets/radcliffe/3-million-sudoku-puzzles-with-ratings?resource=download
